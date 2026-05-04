@@ -3,12 +3,10 @@
 > Handwritten Indian prescription → structured digital record in seconds.  
 > Built with TrOCR-large (1.3B) + Llama 3.2 3B. Total inference cost: ~$0.001 per prescription.
 
-**Built for [Garage Inference Hackathon 2026](https://garage-inference.dev) — 72 Hours · Weak Models · Strong Products**
 
 ## Demo
 
 <!-- Replace with actual links before submission -->
-[Live Demo (HuggingFace Spaces)](https://huggingface.co/spaces/YOUR_USERNAME/prescription-reader) | [Demo Video](https://youtu.be/YOUR_VIDEO_ID)
 
 ## The Problem
 
@@ -203,5 +201,4 @@ MIT License — see LICENSE file for details.
 
 ---
 
-**Built for Garage Inference Hackathon 2026**  
 *Democratizing healthcare through accessible AI — using weak models to build strong products.*
