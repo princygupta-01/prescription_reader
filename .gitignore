@@ -1,0 +1,78 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js
+.next/
+out/
+build/
+
+# Model cache
+model_cache/
+*.bin
+*.safetensors
+
+# Uploads
+uploads/
+temp/
+
+# PDF exports
+exports/
+
+# Docker
+.dockerignore
+
+# Python
+*.egg-info/
+dist/
+build/
+
+# Coverage
+coverage/
+.coverage
+.nyc_output
+
+# Temporary files
+*.tmp
+*.temp
